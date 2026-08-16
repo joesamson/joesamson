@@ -10,7 +10,7 @@
 
 <hr>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <div width="100%" align="center">
   <a href="https://github.com/joesamson">
@@ -22,26 +22,8 @@
 </div>
 
 
-</div>
 
-<h2 align="center">📌 Pinned Repositories</h2>
 
-<div width="100%" align="center">
-  <a href="https://github.com/joesamson/SIEM-for-Threat-Detection-and-Incident-Response">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joesamson&repo=SIEM-for-Threat-Detection-and-Incident-Response&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
-  </a>
-  <a href="https://github.com/joesamson/Endpoint-Threat-Detection-and-File-Integrity-Monitoring-using-Wazuh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joesamson&repo=Endpoint-Threat-Detection-and-File-Integrity-Monitoring-using-Wazuh&layout=compact&theme=radical&hide_border=true&show_owner=true&description_lines_count=2" alt="Pinned Repo" />
-  </a>
-</div>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div width="100%" align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="804px" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=joesamson&theme=radical&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" />
-  </a>
-</div>
 
 <h2 align="center">🛠️ Tools & Technologies</h2>
 
