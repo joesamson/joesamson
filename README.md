@@ -4,7 +4,6 @@
 
 - 🛡️ SOC Analyst with hands-on experience in intrusion detection, vulnerability scanning, and incident response.
 - 📚 Proficient in **SIEM/SOAR pipeline design** across Splunk, Microsoft Sentinel, Wazuh, and the ELK Stack.
-- 🚀 Currently building out [**SIEM for Threat Detection and Incident Response**](https://github.com/joesamson/SIEM-for-Threat-Detection-and-Incident-Response).
 - 🎯 Actively looking for a **Tier 1/Tier 2 SOC Analyst** role to keep triaging alerts that matter.
 - 📧 Reach me on [**LinkedIn**](https://linkedin.com/in/joe-samson-066b15241) or [**GitHub**](https://github.com/joesamson).
 - 📍 Based in **India**.
@@ -22,12 +21,7 @@
   </a>
 </div>
 
-<h2 align="center">🔥 Language & Coding Activity</h2>
 
-<div width="100%" align="center">
-  <a href="https://github.com/joesamson">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joesamson&layout=compact&theme=radical&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-  </a>
 </div>
 
 <h2 align="center">📌 Pinned Repositories</h2>
@@ -71,13 +65,5 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20" src="https://komarev.com/ghpvc/?username=joesamson&color=blueviolet" alt=""/></a>
-  <a href="https://github.com/Platane/snk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/joesamson/joesamson/blob/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/joesamson/joesamson/blob/output/github-snake.svg" />
-      <img width="804px" alt="github-snake" src="https://github.com/joesamson/joesamson/blob/output/github-snake-dark.svg" />
-    </picture>
   </a>
 </div>
