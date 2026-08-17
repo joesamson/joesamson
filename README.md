@@ -20,12 +20,8 @@
     <td align="center" width="60">
       <a href="https://github.com/joesamson"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
-    <td align="center" width="60">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/discord.png?raw=true" height="60" width="65" title="Discord: coderawake">
-    </td>
   </tr>
 </table>
-<p align="center"><sub>💬 Discord: <b>coderawake</b></sub></p>
 
 <!--💻Big SVG-->
 <a href="https://github.com/joesamson">
