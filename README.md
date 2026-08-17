@@ -21,10 +21,11 @@
       <a href="https://github.com/joesamson"><img src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
-      <a href="mailto:mjoesamson@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/discord.png?raw=true" height="60" width="65" title="Discord: coderawake">
     </td>
   </tr>
 </table>
+<p align="center"><sub>💬 Discord: <b>coderawake</b></sub></p>
 
 <!--💻Big SVG-->
 <a href="https://github.com/joesamson">
@@ -120,18 +121,27 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--🏆Competitive/Community Profiles-->
-<details>
+<details open>
   <summary><h2 align='center'>🏆 My Profiles</h2></summary>
 
 <p align="center">
-<a href="https://tryhackme.com/p/joesamson"><img src="https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red" /></a>
-<a href="https://github.com/joesamson"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/joe-samson-066b15241"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/coderawake"><img src="https://img.shields.io/badge/-TryHackMe-2ecc71?style=flat&labelColor=000000&logo=TryHackMe&logoColor=red" /></a>
+<a href="https://profile.hackthebox.com/profile/019f122a-cdff-72a1-bb77-962c7b6fff4d"><img src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?style=flat&labelColor=000000&logo=hackthebox&logoColor=9FEF00" /></a>
+<a href="https://app.letsdefend.io/user/coderawake"><img src="https://img.shields.io/badge/-LetsDefend-1E90FF?style=flat&labelColor=000000&logoColor=white" /></a>
 </p>
 
-<!-- Quotes Section -->
+<!-- Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <table>
+    <tr>
+      <td>
+        <p align="left" style="font-style: italic;">
+          "Amateurs hack systems, professionals hack people — but SOC analysts hunt both."
+        </p>
+        <p align="right">- Anonymous</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </details>
