@@ -39,10 +39,10 @@
 * **Custom Wazuh & Splunk Detection Rules** 🚨
 * **SOC Automation Playbooks (SOAR)** 🤖
 
-### 🌱 Goals for 2026
+### 🌱 Goals for 2027
 
 - [ ] 🎯 Land a **Tier 1/Tier 2 SOC Analyst** role
-- [ ] 🏆 Earn an advanced certification (**OSCP / GCIH**)
+- [ ] 🏆 Earn an  certification (**sec+**)
 - [ ] 🛠️ Build **10+ detection engineering projects**
 - [x] 🧩 Master **MITRE ATT&CK mapping** for real-world use cases
 - [ ] 🌐 Contribute to **open-source security tooling**
