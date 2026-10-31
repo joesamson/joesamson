@@ -29,8 +29,8 @@
 
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-* **Cloud Security (AWS / Azure)** ☁️
-* **Advanced Threat Hunting** 🕵️
+* **Cloud Security (AWS)** ☁️
+* ** Threat Hunting** 🕵️
 * **Detection Engineering with Sigma & YARA** 🧩
 * **Digital Forensics & Memory Analysis** 🧠
 
